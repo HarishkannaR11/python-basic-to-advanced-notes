@@ -1,5 +1,5 @@
 [tool.pytest.ini_options]
-testpaths = ["02_intermediate", "03_advanced"]
+testpaths = ["01_basics", "02_intermediate", "03_advanced"]
 addopts = "-q"
 
 [tool.ruff]
