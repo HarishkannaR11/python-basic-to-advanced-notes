@@ -1,0 +1,7 @@
+[tool.pytest.ini_options]
+testpaths = ["02_intermediate", "03_advanced"]
+addopts = "-q"
+
+[tool.ruff]
+line-length = 100
+exclude = ["solutions"]
